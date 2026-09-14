@@ -1,0 +1,13 @@
+# This repository stores release documentation, not local customer workspaces.
+data/
+backups/
+logs/
+.updates/
+node_modules/
+*.sqlite*
+*.db
+*private*.pem
+*.xlsm
+*.swupdate
+*.zip
+.DS_Store
